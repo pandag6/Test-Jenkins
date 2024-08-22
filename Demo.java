@@ -5,6 +5,7 @@ class Calculator
     {
         System.out.println("Music Loading....");
         System.out.println("Bangla Songs....");
+        System.out.println("English Songs....");
 
     }
 
